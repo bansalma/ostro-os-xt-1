@@ -8,4 +8,4 @@
 	branch = krogoth
 [submodule "meta-intel-realsense"]
 	path = meta-intel-realsense
-	url = https://github.com/IntelRealSense/meta-intel-realsense
+	url = https://github.com/ev-mp/meta-intel-librealsense
