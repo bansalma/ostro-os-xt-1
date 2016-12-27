@@ -123,7 +123,6 @@ libxxf86dga@core
 libxxf86misc@core
 libxxf86vm@core
 lmbench@openembedded-layer
-log4cxx@realsense
 ltp@core
 machine-host@xfce-layer
 memtester@openembedded-layer
@@ -153,11 +152,6 @@ python-nose@core
 python-numpy@core
 python3@core
 randrproto@core
-realsense-sdk@realsense
-realsense-projectionopt@realsense
-realsense-objectrecognition@realsense
-realsense-slam@realsense
-realsense-persontracking@realsense
 recordproto@core
 renderproto@core
 resourceproto@core
