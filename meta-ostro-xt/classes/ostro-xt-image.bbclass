@@ -16,7 +16,6 @@ OSTRO_XT_IMAGE_PKG_FEATURES = "\
     xdk-daemon \
     backport-iwlwifi \
     multimedia \
-    realsense-sdk \
     alsa \
 "
 
